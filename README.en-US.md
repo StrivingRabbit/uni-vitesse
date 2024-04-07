@@ -2,10 +2,6 @@
   <img src='https://user-images.githubusercontent.com/36911513/247957726-7a8469f5-5ea2-413a-86f7-31a71eac4392.png' alt='Uni Vitesse - Opinionated Vite Starter Template' width='800'/>
 </p>
 
-<h6 align='center'>
-<a href="https://uni-vitesse.netlify.app/">Live Demo</a>
-</h6>
-
 <h5 align='center'>
 <b>UniAPP version of <a href="https://github.com/antfu/vitesse-lite">Vitesse-lite</a></b>
 </h5>
@@ -78,7 +74,7 @@ If there is no cross-end requirement, [Vitesse-lite](https://github.com/antfu/vi
 - [`vite-plugin-uni-layouts`](https://github.com/uni-helper/vite-plugin-uni-layouts) - layouts for pages
 - [`unplugin-auto-import`](https://github.com/antfu/unplugin-auto-import) - Directly use Vue Composition API and others without importing
 - [`unplugin-vue-components`](https://github.com/antfu/unplugin-vue-components) - components auto import
-- [`unocss-applet`](https://github.com/unocss-applet/unocss-applet) - UnoCSS applets preset, compatible with the use of 'Attributify Mode' in applets
+- [`unocss-preset-weapp`](https://github.com/MellowCo/unocss-preset-weapp) - UnoCSS applets preset, compatible with the use of 'Attributify Mode' in applets
 - [`reactivity-transform`](https://vue-macros.sxzz.moe/features/reactivity-transform.html) - Vue Macros Reactivity Transform standalone package with `reactivityTransform` syntax candy enabled
 - [`vite-plugin-vue-devtools`](https://github.com/webfansplz/vite-plugin-vue-devtools) - Designed to enhance the Vue developer experience.
 
@@ -98,7 +94,7 @@ If there is no cross-end requirement, [Vitesse-lite](https://github.com/antfu/vi
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit ares-chang/uni-vitesse my-uni-app
+npx degit StrivingRabbit/uni-vitesse my-uni-app
 cd my-uni-app
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 ```

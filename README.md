@@ -2,10 +2,6 @@
   <img src='https://user-images.githubusercontent.com/36911513/247957726-7a8469f5-5ea2-413a-86f7-31a71eac4392.png' alt='Uni Vitesse - Opinionated Vite Starter Template' width='800'/>
 </p>
 
-<h6 align='center'>
-<a href="https://uni-vitesse.netlify.app/">在线 Demo</a>
-</h6>
-
 <h5 align='center'>
 <b>UniAPP 版的 <a href="https://github.com/antfu/vitesse-lite">Vitesse-lite</a></b>
 </h5>
@@ -78,7 +74,7 @@
 - [`vite-plugin-uni-layouts`](https://github.com/uni-helper/vite-plugin-uni-layouts) - 页面布局系统
 - [`unplugin-auto-import`](https://github.com/antfu/unplugin-auto-import) - 直接使用 Composition API 等，无需导入
 - [`unplugin-vue-components`](https://github.com/antfu/unplugin-vue-components) - 组件自动导入
-- [`unocss-applet`](https://github.com/unocss-applet/unocss-applet) - UnoCSS 小程序预设，兼容在小程序中使用 `Attributify Mode`
+- [`unocss-preset-weapp`](https://github.com/MellowCo/unocss-preset-weapp) - UnoCSS 小程序预设，兼容在小程序中使用 `Attributify Mode`
 - [`reactivity-transform`](https://vue-macros.sxzz.moe/features/reactivity-transform.html) - Vue Macros Reactivity Transform 独立包，可开启 `reactivityTransform` 语法糖
 - [`vite-plugin-vue-devtools`](https://github.com/webfansplz/vite-plugin-vue-devtools) - 旨在增强 Vue 开发者体验。
 
@@ -98,7 +94,7 @@
 如果您更喜欢使用更干净的 git 历史记录手动执行此操作
 
 ```bash
-npx degit ares-chang/uni-vitesse my-uni-app
+npx degit StrivingRabbit/uni-vitesse my-uni-app
 cd my-uni-app
 pnpm i # 如果你没装过 pnpm, 可以先运行: npm install -g pnpm
 ```

@@ -30,6 +30,7 @@ export default defineConfig({
       subPackages: [
         'src/pages-sub',
       ],
+      dts: './typings/uni-pages.d.ts'
     }),
 
     /**
@@ -66,7 +67,7 @@ export default defineConfig({
         'uni-app',
         'pinia',
       ],
-      dts: true,
+      dts: './typings/auto-imports.d.ts',
       dirs: [
         './src/composables',
       ],
