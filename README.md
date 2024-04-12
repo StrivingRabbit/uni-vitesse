@@ -87,7 +87,7 @@
 
 ### GitHub 模板
 
-[使用这个模板创建仓库](https://github.com/ares-chang/uni-vitesse/generate).
+[使用这个模板创建仓库](https://github.com/StrivingRabbit/uni-vitesse/generate).
 
 ### 克隆到本地
 
