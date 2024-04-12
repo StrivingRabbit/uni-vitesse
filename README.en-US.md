@@ -87,7 +87,7 @@ If there is no cross-end requirement, [Vitesse-lite](https://github.com/antfu/vi
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/ares-chang/uni-vitesse/generate).
+[Create a repo from this template on GitHub](https://github.com/StrivingRabbit/uni-vitesse/generate).
 
 ### Clone to local
 
