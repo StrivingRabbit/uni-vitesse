@@ -21,4 +21,3 @@ const counter = useCounterStore()
   --uno: h-8 w-8 center rd-full p-0 btn;
 }
 </style>
-~/store/modules/counter
